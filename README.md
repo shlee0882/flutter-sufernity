@@ -26,14 +26,19 @@
 </p>
 
 
-- 게시글 [유튜브 추천영상 및 검색, 이미지 찾기, 편집] 첨부
+- 게시글 [유튜브 추천영상 및 검색] 추가
 
 <p float="left">
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/reg-youtube.gif" width="270" height="600"/>
+  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/reg-youtube1.gif" width="270" height="600"/>
+  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/reg-youtube2.gif" width="270" height="600"/>
+</p>
+
+- 게시글 [이미지 찾기, 편집] 추가
+
+<p float="left">
   <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/crop2.gif" width="270" height="600"/>
   <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/crop1.gif" width="270" height="600"/>
 </p>
-
 
 - 게시글 등록
 
