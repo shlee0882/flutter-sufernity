@@ -20,50 +20,6 @@
 
 ## 기능 요약
 
-- 로그인/메인 페이지, 게시글 상세 
-
-<p float="left">
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/applogin.gif" width="270" height="600"/>
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/touchdetail.gif" width="270" height="600" />
-</p>
-
-- 게시글 [유튜브 추천영상 및 검색, 이미지 편집] 첨부 가능
-
-<p float="left">
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/regyoutube.gif" width="270" height="600"/>
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/crop1.gif" width="270" height="600"/>
-</p>
-
-- 게시글 등록
-
-<p float="left">
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/register1.gif" width="270" height="600" />
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/detail1.gif" width="270" height="600"/>
-</p>
-
-- 게시글 수정 및 삭제
-
-<p float="left">
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/modify1.gif" width="270" height="600"/>
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/delete1.gif" width="270" height="600"/>
-</p>
-
-- 공유하기 / 신고하기
-
-<p float="left">
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/report1.gif" width="270" height="600"/>
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/share1.gif" width="270" height="600"/>
-</p>
-
-- 계정 관리 / 앱 정보 
-
-<p float="left">
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/appinfo1.gif" width="270" height="600"/>
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/appinfo2.gif" width="270" height="600"/>
-</p>
-
-
-<br>
 
 ## 기술 및 오픈소스
 
