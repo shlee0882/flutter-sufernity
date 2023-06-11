@@ -57,8 +57,8 @@
 - 공유하기 / 신고하기
 
 <p float="left">
-  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/report1.gif" width="270" height="600"/>
   <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/share1.gif" width="270" height="600"/>
+  <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/report1.gif" width="270" height="600"/>
 </p>
 
 - 계정 관리 / 앱 정보 
