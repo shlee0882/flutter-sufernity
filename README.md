@@ -7,8 +7,6 @@
  
 - 파이어베이스 공부를 해보고 싶어 시작한 플러터 커뮤니티 앱
 - 구글 클라우드 서비스도 같이 학습하게 됨
-- RN 망했다고 약팔아서 Flutter 찍먹하려다가 도지코인 마냥 
-고점 물린 토이 프로젝트
 
 <br>
 
@@ -28,7 +26,7 @@
 </p>
 
 
-- 게시글 [유튜브 추천영상 및 검색, 이미지 찾기, 편집] 첨부 가능
+- 게시글 [유튜브 추천영상 및 검색, 이미지 찾기, 편집] 첨부
 
 <p float="left">
   <img src="https://shlee0882.github.io/flutter-static-files/assets/gif/reg-youtube.gif" width="270" height="600"/>
